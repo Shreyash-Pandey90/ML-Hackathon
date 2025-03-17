@@ -1,0 +1,16 @@
+Flask==2.2.2
+Flask-PyMongo==2.3.0
+google-auth==2.16.1
+google-auth-oauthlib==1.2.1
+google-auth-httplib2==0.1.0
+google-api-python-client==2.73.0
+spacy==3.5.0
+pymongo==4.3.3
+authlib
+python-dotenv==0.19.1
+dateparser
+re
+# smtplib
+
+#pip install Flask --upgrade
+#venv=schedulingbot
